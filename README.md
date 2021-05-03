@@ -1,4 +1,4 @@
-**This is template for Flarum language pack. If you want o to use it, follow [these instructions](https://github.com/rob006-software/flarum-lang-template/wiki).**
+**This is template for Flarum language pack. If you want to use it, follow [these instructions](https://github.com/rob006-software/flarum-lang-template/wiki).**
 
 ---------
 
