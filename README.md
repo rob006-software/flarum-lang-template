@@ -10,7 +10,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
 
-This language pack contains Xxish translations for Flarum (compatible with `0.1.0-beta.16` or newer) and popular extensions. Full list of supported extensions is available below.
+This language pack contains Xxish translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
 
 ## Installation
@@ -69,6 +69,6 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for `day.js` comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js).
 
 Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/xx/validation.php).
