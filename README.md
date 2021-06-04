@@ -65,6 +65,12 @@ php flarum cache:clear
 <!-- various-extensions-list-stop -->
 
 
+## Translation status for premium extensions
+
+<!-- premium-extensions-list-start -->
+<!-- premium-extensions-list-stop -->
+
+
 ## Credits
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
