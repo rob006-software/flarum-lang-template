@@ -43,7 +43,7 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/xx/) |
 
 
