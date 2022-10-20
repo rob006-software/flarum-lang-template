@@ -1,8 +1,8 @@
 {
-	"name": "yourname/flarum-lang-xxish",
+	"name": "flarum-lang/xxish",
 	"type": "flarum-extension",
 	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-xxish",
+	"homepage": "https://github.com/flarum-lang/xxish",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -17,8 +17,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-xxish/issues",
-		"source": "https://github.com/yourname/flarum-lang-xxish"
+		"issues": "https://github.com/flarum-lang/xxish/issues",
+		"source": "https://github.com/flarum-lang/xxish"
 	},
 	"require": {
 		"flarum/core": "^1.4"
