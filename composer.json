@@ -6,7 +6,10 @@
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"flarum-locale",
+		"xx-locale",
+		"xxish-locale",
+		"xxish"
 	],
 	"license": "MIT",
 	"support": {
