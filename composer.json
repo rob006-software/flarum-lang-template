@@ -17,7 +17,7 @@
 		"source": "https://github.com/flarum-lang/xxish"
 	},
 	"require": {
-		"flarum/core": "^1.6"
+		"flarum/core": "^1.7"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

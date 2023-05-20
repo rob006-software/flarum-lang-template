@@ -10,7 +10,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/xxish)](https://packagist.org/packages/flarum-lang/xxish/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/xxish)](https://packagist.org/packages/flarum-lang/xxish/stats) 
 
-This language pack contains Xxish translations for Flarum (compatible with `1.6.0` or newer) and popular extensions. Full list of supported extensions is available below.
+This language pack contains Xxish translations for Flarum (compatible with `1.7.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
 
 ## Installation
